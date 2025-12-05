@@ -1,4 +1,4 @@
-// components/ChatHistory.js
+// src/components/ChatHistory.js
 
 import React from 'react';
 import { MessageSquare, Brain, Calendar, Hash } from 'lucide-react';

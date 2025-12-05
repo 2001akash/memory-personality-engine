@@ -1,4 +1,4 @@
-// components/MemoryExtractor.js
+// src/components/MemoryExtractor.js
 
 /**
  * Memory Extractor Module

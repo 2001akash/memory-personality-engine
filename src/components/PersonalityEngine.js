@@ -1,4 +1,4 @@
-// components/PersonalityEngine.js
+// src/components/PersonalityEngine.js
 
 import React, { useState } from 'react';
 import { Sparkles, Send } from 'lucide-react';
